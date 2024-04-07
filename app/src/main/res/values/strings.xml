@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music App Demo</string>
+    <string name="welcome_to_music_demo">WelCome To Music Demo</string>
+    <string name="todo">TODO</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+</resources>
